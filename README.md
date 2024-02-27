@@ -1,2 +1,2 @@
 #demo
-good things take timw ?
+good things take time ?
